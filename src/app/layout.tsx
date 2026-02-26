@@ -37,6 +37,9 @@ export const metadata: Metadata = {
     description: "ひとりで抱えない。気持ちを置ける場所。",
     images: ["/ogp.png"],
   },
+  verification: {
+    google: "D0lFdYlr8kJLTCuEdcSh6aXHMyfHzaGee6v1jkngdWo",
+  },
 };
 
 export default function RootLayout({
